@@ -1,6 +1,6 @@
 /*!
- * @name Huibq_render源
- * @description 为应对vercel资源定价改变，使用render部署
+ * @name Huibq_lxmusic源
+ * @description 所有通知访问下方域名，反馈可前往GitHub提Issues，禁止批量下载！
  * @version v1.2.0
  * @author Huibq
  */
