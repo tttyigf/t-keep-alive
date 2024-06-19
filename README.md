@@ -31,7 +31,7 @@
 
 > 软件请转跳下载: [安卓 -> 洛雪音乐](https://github.com/lyswhut/lx-music-mobile/releases)
 >
-> 软件请转跳下载: [Windows&macOS -> 洛雪音乐](https://github.com/lyswhut/lx-music-desktop/releases)
+> 软件请转跳下载: [Windows&MacOS -> 洛雪音乐](https://github.com/lyswhut/lx-music-desktop/releases)
 
 - 洛雪音乐音源链接：
 ```any
@@ -46,7 +46,7 @@ https://raw.niuma666bet.buzz/Huibq/keep-alive/master/render_api.js
 
 > 软件请转跳下载: [安卓-> MusicFree](https://github.com/maotoumao/MusicFree/releases)
 >
-> 软件请转跳下载: [Windows&macOS -> MusicFree](https://github.com/maotoumao/MusicFreeDesktop/releases)
+> 软件请转跳下载: [Windows&MacOS -> MusicFree](https://github.com/maotoumao/MusicFreeDesktop/releases)
 
 - MusicFree音源链接：
 ```any
